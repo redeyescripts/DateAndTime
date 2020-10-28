@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\DateAndTime\BirthDayOfWeek\bin\Debug\netcoreapp3.1\BirthDayOfWeek.exe
+C:\Users\opilane\source\repos\DateAndTime\BirthDayOfWeek\bin\Debug\netcoreapp3.1\BirthDayOfWeek.deps.json
+C:\Users\opilane\source\repos\DateAndTime\BirthDayOfWeek\bin\Debug\netcoreapp3.1\BirthDayOfWeek.runtimeconfig.json
+C:\Users\opilane\source\repos\DateAndTime\BirthDayOfWeek\bin\Debug\netcoreapp3.1\BirthDayOfWeek.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\DateAndTime\BirthDayOfWeek\bin\Debug\netcoreapp3.1\BirthDayOfWeek.dll
+C:\Users\opilane\source\repos\DateAndTime\BirthDayOfWeek\bin\Debug\netcoreapp3.1\BirthDayOfWeek.pdb
+C:\Users\opilane\source\repos\DateAndTime\BirthDayOfWeek\obj\Debug\netcoreapp3.1\BirthDayOfWeek.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\DateAndTime\BirthDayOfWeek\obj\Debug\netcoreapp3.1\BirthDayOfWeek.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\DateAndTime\BirthDayOfWeek\obj\Debug\netcoreapp3.1\BirthDayOfWeek.AssemblyInfo.cs
+C:\Users\opilane\source\repos\DateAndTime\BirthDayOfWeek\obj\Debug\netcoreapp3.1\BirthDayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\DateAndTime\BirthDayOfWeek\obj\Debug\netcoreapp3.1\BirthDayOfWeek.dll
+C:\Users\opilane\source\repos\DateAndTime\BirthDayOfWeek\obj\Debug\netcoreapp3.1\BirthDayOfWeek.pdb
+C:\Users\opilane\source\repos\DateAndTime\BirthDayOfWeek\obj\Debug\netcoreapp3.1\BirthDayOfWeek.genruntimeconfig.cache
